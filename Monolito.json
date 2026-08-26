@@ -4,6 +4,7 @@
         "transparency_mode": 0,
         "author": "Altomon",
         "version": "3.0"
+        "updater": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/refs\/heads\/main\/Monolito.json"
     },
     "background": {},
     "simple_colors": {
