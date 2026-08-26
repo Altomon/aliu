@@ -1,0 +1,69 @@
+{
+    "manifest": {
+        "name": "Monolito",
+        "transparency_mode": 0,
+        "author": "Altomon",
+        "version": "3.0"
+    },
+    "background": {},
+    "simple_colors": {
+        "input_background": -15724528,
+        "background": -16777216,
+        "accent": -8355712,
+        "mention_highlight": 1619034240,
+        "blocked_bg": -10461088
+    },
+    "colors": {
+        "primary_dark_660": -15724528,
+        "primary_dark_330": -12566464,
+        "primary_dark_300": -1,
+        "primary_dark_800": -15724528,
+        "brand_new_560": -1,
+        "primary_dark_360": -2763307,
+        "uikit_settings_item_text_color_light": -14671840,
+        "primary_dark_630": -15724528,
+        "status_yellow_500": -12566464,
+        "status_yellow_500_alpha_10": 450221525,
+        "brand_new_260": -1,
+        "brand_500_alpha_20": 869651925,
+        "primary_dark_200": -2763307,
+        "white_500": -1,
+        "primary_dark_700": -16777216,
+        "link": -16776961,
+        "primary_dark_100": 0,
+        "dim_foreground_material_light": -14671840,
+        "uikit_btn_bg_color_selector_red": -65536,
+        "link_500": -16711681,
+        "brand_new_360": -1,
+        "uikit_btn_bg_color_selector_green": -16711936,
+        "abc_tint_switch_track": 553582592,
+        "black_alpha_10": -8355712,
+        "primary_700_alpha_60": -1,
+        "white_800": -14671840,
+        "primary_630": -14671840
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16711936,
+        "ic_mobile": -16711936,
+        "ic_status_idle_16dp": -256,
+        "ic_status_dnd_16dp": -65536,
+        "ic_status_invisible_16dp": 16777215,
+        "ic_sidebar_pins_off_dark_24dp": -1,
+        "ic_sidebar_notifications_on_dark_24dp": -1,
+        "ic_channel_text": -1,
+        "drawable_overlay_channels_selected_dark": -14671840,
+        "drawable_voice_user_background_speaking": -16711936,
+        "drawable_voice_sensitivity_progress": -16711936,
+        "drawable_button_red": -65536,
+        "drawable_voice_indicator_speaking": -16711936,
+        "drawable_button_grey": -8355712,
+        "ic_add_friend_send": -15635114
+    },
+    "fonts": {
+        "ginto_bold": "file:\/\/\/system\/fonts\/DroidSans-Bold.ttf",
+        "whitney_semibold": "file:\/\/\/system\/fonts\/DroidSans-Bold.ttf",
+        "*": "file:\/\/\/system\/fonts\/DroidSans.ttf",
+        "whitney_bold": "file:\/\/\/system\/fonts\/DroidSans-Bold.ttf"
+    },
+    "raws": {}
+}
