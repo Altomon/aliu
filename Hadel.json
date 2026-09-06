@@ -1,0 +1,71 @@
+{
+    "manifest": {
+        "transparency_mode": 0,
+        "author": "Altomon",
+        "name": "Hadel",
+        "version": "2.2",
+		"updater: "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.png",
+        "overlay_alpha": 64,
+        "blur_radius": 5
+    },
+    "simple_colors": {
+        "accent": -8388353,
+        "mention_highlight": 1073807232
+    },
+    "colors": {
+        "primary_dark_660": 553582720,
+        "primary_dark_330": -1071636448,
+        "primary_dark_300": -1056964609,
+        "primary_dark_800": -12582784,
+        "brand_new_560": -16711808,
+        "primary_dark_360": -1056964609,
+        "uikit_settings_item_text_color_light": -2130739200,
+        "primary_dark_630": 536936320,
+        "status_yellow_500": -32768,
+        "brand_new_260": -1056997121,
+        "brand_500_alpha_20": 553615360,
+        "primary_dark_200": -1056964609,
+        "white_500": -1056964609,
+        "primary_dark_700": 1052688,
+        "link": -16744193,
+        "uikit_btn_bg_color_selector_red": -65408,
+        "link_500": -16711808,
+        "uikit_btn_bg_color_selector_green": -8323328,
+        "abc_tint_switch_track": 1090486272,
+        "black_alpha_10": 0,
+        "primary_700_alpha_60": 16744448,
+        "white_800": -1071636448,
+        "primary_630": -1071636448,
+        "primary_dark_600": 276856960,
+        "uikit_settings_item_text_color_dark": -1056964609,
+        "primary_dark_400": -1061109568,
+        "transparent": 16744448
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -8323328,
+        "ic_mobile": -8323328,
+        "ic_status_idle_16dp": -32768,
+        "ic_status_dnd_16dp": -65408,
+        "ic_status_invisible_16dp": 16777215,
+        "ic_sidebar_pins_off_dark_24dp": -1056964609,
+        "ic_sidebar_notifications_on_dark_24dp": -1056964609,
+        "ic_channel_text": -1056964609,
+        "drawable_overlay_channels_selected_dark": 553615360,
+        "drawable_voice_user_background_speaking": -8323328,
+        "drawable_voice_sensitivity_progress": -8323328,
+        "drawable_button_red": -65408,
+        "drawable_voice_indicator_speaking": -8323328,
+        "drawable_button_grey": -2130739200,
+        "ic_ban_red_24dp": -1057030016,
+        "abc_action_bar_item_background_material": -1056997376
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Roboto-Medium.ttf",
+        "whitney_medium": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Roboto-Light.ttf",
+        "ginto_bold": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Roboto-Black.ttf"
+    },
+    "raws": {}
+}
