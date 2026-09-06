@@ -4,7 +4,7 @@
         "author": "Altomon",
         "name": "Hadel",
         "version": "2.2",
-		"updater: "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.json"
+		"updater": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.json"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.png",
