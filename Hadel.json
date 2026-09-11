@@ -3,8 +3,8 @@
         "transparency_mode": 0,
         "author": "Altomon",
         "name": "Hadel",
-        "version": "2.4",
-		"updater": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.json"
+        "version": "2.6",
+        "updater": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.json"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Hadel.png",
@@ -25,7 +25,7 @@
         "uikit_settings_item_text_color_light": -2130739200,
         "primary_dark_630": 536936320,
         "status_yellow_500": -32768,
-        "brand_new_260": -1056997121,
+        "brand_new_260": -1056997376,
         "brand_500_alpha_20": 553615360,
         "primary_dark_200": -1056964609,
         "white_500": -1056964609,
@@ -59,7 +59,6 @@
         "drawable_button_red": -65408,
         "drawable_voice_indicator_speaking": -8323328,
         "drawable_button_grey": -2130739200,
-        "ic_ban_red_24dp": -1057030016,
         "abc_action_bar_item_background_material": -1056997376
     },
     "fonts": {
