@@ -1,0 +1,70 @@
+{
+    "manifest": {
+        "transparency_mode": 0,
+        "author": "Altomon",
+        "updater": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/refs\/heads\/main\/Heftereo.json",
+        "name": "Heftereo",
+        "version": "2"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/Heftereo.jpg"
+    },
+    "simple_colors": {
+        "background": -14671840,
+        "accent": -5197648,
+        "mention_highlight": 1353756672
+    },
+    "colors": {
+        "primary_dark_660": -1340071904,
+        "primary_dark_330": -12566464,
+        "primary_dark_300": -1,
+        "primary_dark_800": -15724528,
+        "brand_new_560": -5197648,
+        "primary_dark_360": -2763307,
+        "uikit_settings_item_text_color_light": -11513776,
+        "primary_dark_630": -1340071904,
+        "status_yellow_500": -5197824,
+        "status_yellow_500_alpha_10": 450221525,
+        "brand_new_260": -1,
+        "brand_500_alpha_20": 869651925,
+        "primary_dark_200": -2763307,
+        "white_500": -1,
+        "primary_dark_700": -15724528,
+        "link": -16731984,
+        "primary_dark_100": 0,
+        "dim_foreground_material_light": -14671840,
+        "uikit_btn_bg_color_selector_red": -5242880,
+        "link_500": -5197824,
+        "brand_new_360": -1,
+        "uikit_btn_bg_color_selector_green": -16732160,
+        "black_alpha_10": 0,
+        "primary_700_alpha_60": 0,
+        "white_800": -12566464,
+        "primary_630": -15724528,
+        "primary_dark_600": -15724528
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16732160,
+        "ic_mobile": -16732160,
+        "ic_status_idle_16dp": -5197824,
+        "ic_status_dnd_16dp": -5242880,
+        "ic_status_invisible_16dp": 16777215,
+        "ic_sidebar_pins_off_dark_24dp": -1,
+        "ic_sidebar_notifications_on_dark_24dp": -1,
+        "ic_channel_text": -1,
+        "drawable_overlay_channels_selected_dark": -15724528,
+        "drawable_voice_user_background_speaking": -16732160,
+        "drawable_voice_sensitivity_progress": -16732160,
+        "drawable_button_red": -5242880,
+        "drawable_voice_indicator_speaking": -16732160,
+        "drawable_button_grey": -5197648
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/ICSL6.ttf",
+        "whitney_semibold": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/ICSL6.ttf",
+        "*": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/ICSL3.ttf",
+        "whitney_bold": "https:\/\/raw.githubusercontent.com\/Altomon\/aliu\/main\/ICSL6.ttf"
+    },
+    "raws": {},
+    "icons": {}
+}
